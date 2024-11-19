@@ -83,11 +83,21 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ![image (22)](https://github.com/user-attachments/assets/e8219872-e5b9-4441-853f-a16e586072eb)
 
+#### Upscaled
+
+
+![im23](https://github.com/user-attachments/assets/456a108b-277f-41d5-bf55-55f200a70b62)
+
 ### best quality, keqing, solo, the pose, indoors, smile
 
 
 
 ![image (19)](https://github.com/user-attachments/assets/7baadf72-c96d-4fac-8d8f-90e8b0f89773)
+
+#### Upscaled 
+
+![im21](https://github.com/user-attachments/assets/b5305ad7-05ee-48fc-a83f-adfdb7960489)
+
 
 # 🌀 ControlNeXt
 
