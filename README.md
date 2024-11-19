@@ -61,7 +61,7 @@ python app.py
 
 To upscale images using the ControlNeXt model, you can use the following Hugging Face Space:
 
-[APISR by HikariDawn](https://huggingface.co/spaces/HikariDawn/APISR)
+[APISR by HikariDawn](https://huggingface.co/spaces/HikariDawn/APISR) Or [svjack/APISR](https://huggingface.co/spaces/svjack/APISR)
 
 This space provides an interface to upscale images using advanced algorithms, including the ControlNeXt model.
 
