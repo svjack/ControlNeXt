@@ -1,7 +1,95 @@
+# ControlNeXt-Genshin-Impact-XL-Demo
+
+This repository contains a demo for the ControlNeXt model, specifically tailored for upscaling images from the Genshin Impact game. The demo is designed to be run in a Python 3.9 environment using Conda.
+
+## Setup Instructions
+
+### 1. Create and Activate Conda Environment
+
+First, create a new Conda environment named `py39` with Python 3.9:
+
+```bash
+conda create -n py39 python=3.9
+```
+
+Activate the environment:
+
+```bash
+conda activate py39
+```
+
+### 2. Install Jupyter Kernel
+
+Install the `ipykernel` package to enable the environment as a Jupyter kernel:
+
+```bash
+pip install ipykernel
+```
+
+Register the kernel with Jupyter:
+
+```bash
+python -m ipykernel install --user --name py39 --display-name "py39"
+```
+
+### 3. Clone the Repository
+
+Clone this repository and navigate into the directory:
+
+```bash
+git clone https://huggingface.co/spaces/svjack/ControlNeXt-Genshin-Impact-XL-Demo
+cd ControlNeXt-Genshin-Impact-XL-Demo
+```
+
+### 4. Install Dependencies
+
+Install the required Python packages using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Run the Demo
+
+Start the demo by running the `app.py` script:
+
+```bash
+python app.py
+```
+
+## Upscaling Images
+
+To upscale images using the ControlNeXt model, you can use the following Hugging Face Space:
+
+[APISR by HikariDawn](https://huggingface.co/spaces/HikariDawn/APISR)
+
+This space provides an interface to upscale images using advanced algorithms, including the ControlNeXt model.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Acknowledgments
+
+- The ControlNeXt model and the Genshin Impact demo are based on the work of the Hugging Face community.
+- Special thanks to HikariDawn for providing the APISR upscaling tool.
+
+---
+
+Feel free to contribute to this project by opening issues or submitting pull requests. Happy coding!
+
+### best quality, lisa, solo, open hand, outdoors, indoor, cute, young, cat, cat ear, glasses 
+
+
+![image (22)](https://github.com/user-attachments/assets/e8219872-e5b9-4441-853f-a16e586072eb)
+
+### best quality, keqing, solo, the pose, indoors, smile
+
+
+
+![image (19)](https://github.com/user-attachments/assets/7baadf72-c96d-4fac-8d8f-90e8b0f89773)
 
 # 🌀 ControlNeXt
-
-
 
 ##   [📝 Project Page](https://pbihao.github.io/projects/controlnext/index.html)  |  [📚 Paper](https://arxiv.org/abs/2408.06070) | [🗂️ Demo (SDXL)](https://huggingface.co/spaces/Eugeoter/ControlNeXt)
 
